@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Pivotal Marketing",
+  "description": "Premium embedded marketing firm for real estate developers, combining elite videography, design, digital ads, and growth strategy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
